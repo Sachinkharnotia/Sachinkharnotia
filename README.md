@@ -26,21 +26,14 @@
 
 <br>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachinkharnotia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-  </a>
-</div>
-
 <br>
 
 ### 📬 Let's Connect
 <div align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:kharnotia907@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/sachinkharnotia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
