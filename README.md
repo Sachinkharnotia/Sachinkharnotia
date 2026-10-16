@@ -9,7 +9,7 @@
 </div>
 
 ### 💫 About Me
-- 🔭 Founder & Technical Product Manager at **Codaphics Private Limited**
+- 🔭 Product & Operations Manager at **Codaphics Private Limited**
 - 🎓 Final-year **B.Tech Computer Science and Engineering (CSE)** student based in Kolkata
 - 💻 **Tech Stack & Tools:** Android Studio, Java, PHP, MySQL, Jira, GitHub, Agile/Scrum
 - 📈 Focusing on product lifecycle management, B2B e-commerce architectures, and system design
