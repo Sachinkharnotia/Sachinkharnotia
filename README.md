@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff,3a7bd5&height=200&section=header&text=Sachin%20Kharnotia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Product%20Manager&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00d2ff&center=true&vCenter=true&width=500&lin;Android+App+Developer;Building+Scalable+Products" alt="Typing SVG" />
+
   </a>
 </div>
 
